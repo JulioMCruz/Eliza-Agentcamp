@@ -1,2 +1,2 @@
-# Frutero Agent Camp
+# Agent Camp
 
